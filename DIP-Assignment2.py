@@ -1,6 +1,6 @@
-#*****************Assignment2********************
+#Assignment2
 #Task-->Read a color image,convert the color image to gray scale and display both images.
-#Make some part of that gray scale image total black and display it.Now subtract this to images andd display output image.
+#Make some part of that gray scale image total black and display it.Now subtract this to images and display output image.
 
 import math                                                #import the required libraries.
 import numpy as np
