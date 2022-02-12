@@ -26,8 +26,8 @@ for x in range(m):
         gray_image2[x][y] = gray_image[x][y]
 
 #making some part of gray scale image to black
-for x in range(20,1024,1):
-   for y in range(300,500,1):
+for x in range(20,300,1):
+   for y in range(50,300,1):
        gray_image2[x][y] = 0
 
 cv2.imshow("original Image",image)
